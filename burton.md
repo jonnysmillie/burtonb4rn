@@ -20,6 +20,6 @@ As you can see from the above map, B4RN is available in many of the areas surrou
 
 ## Planned connection route for Burton
 
-<img src="/img/b4rnroutes1.jpg"/>
+<img src="{{site.baseurl}}/img/b4rnroutes1.jpg"/>
 
-<img src="/img/b4rnroutes2.jpg"/>
+<img src="{{site.baseurl}}/img/b4rnroutes2.jpg"/>
