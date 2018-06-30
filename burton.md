@@ -14,7 +14,7 @@ The B4RN service is designed solely to deliver a world-class broadband service, 
 
 ## B4RN Coverage in the North West
 
-<iframe src="https://widgets.scribblemaps.com/sm/?d=true&z=true&l=true&id=b4rn-coverage-nw" width="720" height="550" frameborder="0" title="B4RN Coverage North West" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://widgets.scribblemaps.com/sm/?d=true&z=true&l=true&id=b4rn-coverage-nw" width="100%" height="550" frameborder="0" title="B4RN Coverage North West" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 As you can see from the above map, B4RN is available in many of the areas surrounding Burton-in Kendal. It would make sense that residents of Burton should be able to access the improved service that is available to other households and businesses a few kilometers away.
 
